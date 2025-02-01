@@ -1,0 +1,84 @@
+{
+  "resData": [
+    {
+      "info": {
+        "id": "217032",
+        "name": "Tex mex",
+        "cloudinaryImageId": "5ade93583ffde3740c65e9d181fac540a4fc8518d58f6ebf9c0f0d8b11119427?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+        "areaName": "Tunis",
+        "avgRating": 4.5,
+        "cuisines": ["Tunisian Style Sandwich"]
+      }
+    },
+    {
+      "info": {
+        "id": "209752",
+        "name": "Serr & kamoun",
+        "cloudinaryImageId": "a843e4b8e74ac1122017866a88c91a97ba8b6ef932da2ab09164b235a146de70?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+        "areaName": "Bizerte",
+        "avgRating": 4.1,
+        "cuisines": ["Tunisian Style", "Street Food"]
+      }
+    },
+    {
+      "info": {
+        "id": "678943",
+        "name": "MetaDor",
+        "cloudinaryImageId": "a4b9baebc8001fba848785153fe0d66dc4920393b0f66368fcebfc82de299772?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+        "areaName": "Sousse",
+        "avgRating": 4.3,
+        "cuisines": ["Italian Food"]
+      }
+    },
+    {
+      "info": {
+        "id": "217031",
+        "name": "Tacos Chaneb",
+        "cloudinaryImageId": "77c340a666510ab51340d62837d52017a36ab0f448806ac6955cdc48ee9ca8d1",
+        "areaName": "Tunis",
+        "avgRating": 4.5,
+        "cuisines": ["Tunisian-style tacos"]
+      }
+    },
+    {
+      "info": {
+        "id": "209751",
+        "name": "Mlewi Eljanoub",
+        "cloudinaryImageId": "67a82263e6235eb0ea815cc47079460abbdc812bd3b2d1853a513cc3d92c7137",
+        "areaName": "Sousse",
+        "avgRating": 4.1,
+        "cuisines": ["Southern Tunisian Specialties"]
+      }
+    },
+    {
+      "info": {
+        "id": "310829",
+        "name": "Dar Slah",
+        "cloudinaryImageId": "9cbd1d9215253889c9b2788fb1a27d0e3fe1f514918158127d766171d8d01929",
+        "areaName": "Sidi Bou Said",
+        "avgRating": 3.7,
+        "cuisines": ["Couscous", "Tunisian Traditional"]
+      }
+    },
+    {
+      "info": {
+        "id": "636843",
+        "name": "La Goulette Grill",
+        "cloudinaryImageId": "2cdc9ad54e0c216599d28ba0d38e85cebcce8a346f628c6419762a4898fa88ff",
+        "areaName": "La Goulette",
+        "avgRating": 3.3,
+        "cuisines": ["Grilled Fish", "Octopus Salad"]
+      }
+    },
+    {
+      "info": {
+        "id": "303893",
+        "name": "Le Coin Jardins d'el Menzah",
+        "cloudinaryImageId": "9266d6edde8487e599010b3bd28a033e947eabdd37402178327654d34ec3ca74",
+        "areaName": "Menzah",
+        "avgRating": 3.7,
+        "cuisines": ["Grilled Prawns", "Tunisian Shawarma"]
+      }
+    }
+  ]
+}
